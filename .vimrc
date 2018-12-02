@@ -1,7 +1,7 @@
 set nocompatible
-set nowrap
+set wrap
 set encoding=utf8
-set guifont=SourceCodePro\ Nerd\ Font\ Mono\ Regular
+"set guifont=SourceCodePro\ Nerd\ Font\ Mono\ Regular
 
 
 "set updatetime=1000
