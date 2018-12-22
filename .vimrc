@@ -43,7 +43,7 @@ set sidescroll=1
 "set tabstop=4
 "set shiftwidth=4
 set smarttab
-set expandtab
+"set expandtab
 set backspace=2
 
 
